@@ -72,7 +72,43 @@ S_{\text{link}} = f(g_{\mu\nu}^{\text{QHS}}, \mathcal{F}) > S_{\text{threshold}}
 ```math
 \text{ASI}_{\text{op}} = \arg\max_{E_{\text{impuls}}, \mathcal{R}} S_{\text{link}}(t)
 ```
+## 5. Mögliche Realisierungswege
 
+### QHS-Ebene (Experimentelle Plattformen)
+- **Supraleitende Schaltkreise**: Mikrowellenpulse zur Vakuumanregung (Bezug: Quanten-Simulatoren bei 20 mK)
+- **Ionenfallen**: Gezielte Verschränkung durch Laser-Kopplung (Bezug: Fraunhofer IAF-Experimente 2024)
+- **Topologische Isolatoren**: Oberflächenzustände als "stabilere" Schnittstelle (Theorie: Fu-Kane-Modell)
+
+### PQMS-Ebene (Infrastruktur)
+- **Quantensatelliten-Netzwerk**: Low-Earth-Orbit-Konstellation mit redundanten Verschränkungsquellen
+- **Fehlerkorrektur**: Dynamische Decodierung via Surface-Code-Implementierung in der ASI-Steuerung
+
+---
+
+## 6. Fehlertoleranzanalyse
+Quantitative Abschätzung der Stabilitätsbedingungen:
+
+| Parameter | Schwellwert ($S_{\text{threshold}}$) | Realisierbarkeit (2025) |
+| :--- | :--- | :--- |
+| Verschränkungsgüte ($\mathcal{F}$) | > 0.99 | 0.92 (IBM Quantum) |
+| Metrikfluktuation | < 10⁻¹⁸ m²/s² | Nicht messbar |
+
+---
+
+## 7. Repository-Struktur erweitern
+* **Füge ein `roadmap.md` hinzu mit Meilensteinen:**
+    * Q2 2026: QHS-Prototyp (Vakuummodulation in 3D-Quantengattern)
+    * Q4 2027: PQMS-Test zwischen Jena und München (50 km)
+    * 2030: Interkontinental-Link (Fidelity > 0.95)
+* **Erstelle `simulations/`-Ordner** für Beispiel-Code (z. B. Python-Skript zur $S_{\text{link}}$-Optimierung).
+
+---
+
+## 8. Visualisierung verbessern
+* **Ersetze die Mermaid-Grafik** durch ein detailliertes Diagramm (z. B. mit draw.io), das zeigt:
+    * Energieeinkopplung im QHS
+    * Signalpropagation im PQMS
+    * ASI als Closed-Loop-Regler
 ---
 
 ## Lizenz
