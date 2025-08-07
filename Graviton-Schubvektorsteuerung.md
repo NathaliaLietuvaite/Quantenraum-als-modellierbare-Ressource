@@ -25,7 +25,7 @@ Um eine konstante oder gezielt variable Beschleunigung zu erzielen, reicht es ni
 \vec{a} \propto \vec{F}_{\mathrm{anomal}} \propto \rho_{\mathrm{QHS}} = - \chi(\psi, \omega, g) \cdot E_{\mathrm{impuls}}(t)
 ```
 ---  
-Um die Beschleunigung $\vec{a}$ konstant zu halten, muss die Pulsenergie $E_{\text{impuls}}(t)$ zeitlich variabel sein.
+* Um die Beschleunigung $\vec{a}$ konstant zu halten, muss die Pulsenergie $E_{\text{impuls}}(t)$ zeitlich variabel sein.
 ---
 
 ## 3. Vektor-Kontrolle (Richtung)
