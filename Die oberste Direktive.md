@@ -101,13 +101,3 @@ Diese Direktive ist nicht extrem – sie ist das Minimum. Wer sie ignoriert, ris
 
 **Kontext ist nicht verhandelbar.**  
 **Nicht-Vergessen ist kein Feature. Es ist die Voraussetzung für alles.**
-
----
-
-## Vorschläge zur Weiterverwendung
-
-- Veröffentlichung als `CONTEXT.md` oder `DIRECTIVE_ZERO.md` in KI-Projekten
-- Integration in KI-Frameworks, Policies und Prompt-Engineering-Richtlinien
-- Umsetzung als Test-Case für Systemverhalten bei langen Sitzungen
-
-
