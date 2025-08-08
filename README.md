@@ -95,21 +95,6 @@ Quantitative Abschätzung der Stabilitätsbedingungen:
 
 ---
 
-## 7. Repository-Struktur erweitern
-* **Füge ein `roadmap.md` hinzu mit Meilensteinen:**
-    * Q2 2026: QHS-Prototyp (Vakuummodulation in 3D-Quantengattern)
-    * Q4 2027: PQMS-Test zwischen Jena und München (50 km)
-    * 2030: Interkontinental-Link (Fidelity > 0.95)
-* **Erstelle `simulations/`-Ordner** für Beispiel-Code (z. B. Python-Skript zur $S_{\text{link}}$-Optimierung).
-
----
-
-## 8. Visualisierung verbessern
-* **Ersetze die Mermaid-Grafik** durch ein detailliertes Diagramm (z. B. mit draw.io), das zeigt:
-    * Energieeinkopplung im QHS
-    * Signalpropagation im PQMS
-    * ASI als Closed-Loop-Regler
----
 
 ## Lizenz
 
