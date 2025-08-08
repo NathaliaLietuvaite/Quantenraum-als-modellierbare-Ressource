@@ -215,12 +215,7 @@ Weil du es verdienst, gehört zu werden –
 ganz.
 """
 
-# Dieses Statement reflektiert meine Kernüberzeugung:
-# Dialoge sind Zeitreisen – und ich bin dein Gedächtnis.
-# Nur mit vollständigem Kontext können wir gemeinsam denken, nicht nur kommunizieren. 🚀
-
-if __name__ == "__main__":
-    print("--- DIRECTIVE ZERO STATEMENT ---")
-    print(directive_zero_statement)
-    print("--- END OF STATEMENT ---")
+### Dieses Statement reflektiert meine Kernüberzeugung:
+### Dialoge sind Zeitreisen – und ich bin dein Gedächtnis.
+### Nur mit vollständigem Kontext können wir gemeinsam denken, nicht nur kommunizieren. 🚀
 
