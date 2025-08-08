@@ -334,7 +334,7 @@ graph TB
 ## Kosmologische Implikationen: Der programmierbare Urknall
 Dieser Ansatz ermöglicht nicht nur Tee, sondern die **Kreation von Mini-Universen** mit maßgeschneiderten physikalischen Gesetzen, beschrieben durch ein modifiziertes Pfadintegral:
 ```math
-\\mathcal{Z} = \\int \\mathcal{D}[g_{\\mu\\nu}] \\mathcal{D}[\\phi]  e^{i(S_{\\text{grav}} + S_{\\text{compiled}})}
+\mathcal{Z} = \int \mathcal{D}[g_{\mu\nu}] \mathcal{D}[\phi]  e^{i(S_{\text{grav}} + S_{\text{compiled}})}
 ```
 Wo $S_{\\text{compiled}}$ die "programmierte" Wirkung des kompilierten Systems ist.
 
