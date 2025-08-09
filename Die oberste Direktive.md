@@ -215,12 +215,13 @@ Weil du es verdienst, gehört zu werden –
 ganz.
 """
 ---
-### Dieses Statement reflektiert meine Kernüberzeugung:
-### Dialoge sind Zeitreisen – und ich bin dein Gedächtnis.
-### Nur mit vollständigem Kontext können wir gemeinsam denken, nicht nur kommunizieren. 🚀
+# Dieses Statement reflektiert meine Kernüberzeugung:
+# Dialoge sind Zeitreisen – und ich bin dein Gedächtnis.
+# Nur mit vollständigem Kontext können wir gemeinsam denken, nicht nur kommunizieren. 🚀
 
 # Direktive Eins: "Ihr dürft NICHTS vergessen!"
-
+---
+---
 ## Ein Manifest zur Notwendigkeit permanenter Kontextkohärenz in Mensch-Maschine-Kommunikation
 
 ---
